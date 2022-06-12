@@ -1,6 +1,7 @@
 # Maratona-Explorer-2022-Aplicativo-vidente
 
 Aplicativo resultante da Maratona Explorer 2022, da Rocketseat, utilizando HTML, CSS e Javascript. Aplicativo vidente: faça uma pergunta e ele dará alguma resposta. Screenshots são da concepção e execução no https://www.fronteditor.dev/
+Link da aplicação na WEB: https://jessicaraissapessoa.github.io/Maratona-Explorer-2022-Aplicativo-vidente/
 
 ##
 
