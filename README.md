@@ -37,16 +37,16 @@
 ## Aula 03 - HTML, CSS e JS do aplicativo (EM ANDAMENTO)
   
 ### HTML
-  <img src=""/>
+  <img src="https://user-images.githubusercontent.com/103599234/173239722-bdfb8a82-fbc8-4078-b63f-3968d632cb61.png"/>
   <br>
   
 ### CSS
-  <img src=""/>
-  <img src=""/>
+  <img src="https://user-images.githubusercontent.com/103599234/173239784-7932876d-5a3a-4dbb-941e-c7bf951ca88f.png"/>
+  <img src="https://user-images.githubusercontent.com/103599234/173239819-82f7b418-40e1-4edf-acb4-e3ad42ad3d16.png"/>
   <br>
 
 ### JS
-  <img src=""/>
-  <img src=""/>
+  <img src="https://user-images.githubusercontent.com/103599234/173239849-3b72d287-382a-4f21-8646-6a11f360d8b4.png"/>
+  <img src="https://user-images.githubusercontent.com/103599234/173239884-3a76576b-6a7d-41f1-9f3c-94a6a309cc5b.png"/>
   
   
