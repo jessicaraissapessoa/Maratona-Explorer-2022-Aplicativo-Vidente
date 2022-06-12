@@ -36,5 +36,8 @@ Aplicativo resultante da Maratona Explorer 2022, da Rocketseat, utilizando HTML,
   CSS
   <img src="https://user-images.githubusercontent.com/103599234/173204276-cb7e1c85-2cbe-4cea-b36e-0569766986d5.png"/>
   <img src="https://user-images.githubusercontent.com/103599234/173204280-2a6e020a-e602-4093-831c-338dc9c65bca.png"/>
+  JS
+  <img src="https://user-images.githubusercontent.com/103599234/173204276-cb7e1c85-2cbe-4cea-b36e-0569766986d5.png"/>
+  <img src="https://user-images.githubusercontent.com/103599234/173204280-2a6e020a-e602-4093-831c-338dc9c65bca.png"/>
   
 </div>
