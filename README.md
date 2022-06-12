@@ -31,7 +31,7 @@ Aplicativo resultante da Maratona Explorer 2022, da Rocketseat, utilizando HTML,
 
 
 
-## Aula 03 - HTML, CSS e JS do aplicativo
+## Aula 03 - HTML, CSS e JS do aplicativo (EM ANDAMENTO)
   
 ### HTML
   <img src=""/>
