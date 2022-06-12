@@ -34,7 +34,7 @@
 
 
 
-## Aula 03 - HTML, CSS e JS do aplicativo (EM ANDAMENTO)
+## Aula 03 - HTML, CSS e JS do aplicativo
   
 ### HTML
   <img src="https://user-images.githubusercontent.com/103599234/173239722-bdfb8a82-fbc8-4078-b63f-3968d632cb61.png"/>
